@@ -3,3 +3,4 @@
 
 Repositório criado durante um curso do curso em video
 
+essa linha eu adicionei diretamente do site, que imoressionante.
